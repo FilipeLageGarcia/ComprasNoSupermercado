@@ -1,0 +1,16 @@
+H:\Workspace\ComprasNoSupermercado\bin\Debug\net5.0\ComprasNoSupermercado.exe
+H:\Workspace\ComprasNoSupermercado\bin\Debug\net5.0\ComprasNoSupermercado.deps.json
+H:\Workspace\ComprasNoSupermercado\bin\Debug\net5.0\ComprasNoSupermercado.runtimeconfig.json
+H:\Workspace\ComprasNoSupermercado\bin\Debug\net5.0\ComprasNoSupermercado.runtimeconfig.dev.json
+H:\Workspace\ComprasNoSupermercado\bin\Debug\net5.0\ComprasNoSupermercado.dll
+H:\Workspace\ComprasNoSupermercado\bin\Debug\net5.0\ref\ComprasNoSupermercado.dll
+H:\Workspace\ComprasNoSupermercado\bin\Debug\net5.0\ComprasNoSupermercado.pdb
+H:\Workspace\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.csprojAssemblyReference.cache
+H:\Workspace\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+H:\Workspace\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.AssemblyInfoInputs.cache
+H:\Workspace\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.AssemblyInfo.cs
+H:\Workspace\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.csproj.CoreCompileInputs.cache
+H:\Workspace\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.dll
+H:\Workspace\ComprasNoSupermercado\obj\Debug\net5.0\ref\ComprasNoSupermercado.dll
+H:\Workspace\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.pdb
+H:\Workspace\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.genruntimeconfig.cache
